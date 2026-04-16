@@ -1,5 +1,5 @@
 {
-  "name": "post-mailer-ai",
+  "name": "my-app",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,7 +9,13 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "googleapis": "^144.0.0",
+    "groq-sdk": "^0.7.0",
+    "iconsax-react": "^0.0.8",
+    "mammoth": "^1.8.0",
     "next": "16.2.3",
+    "next-auth": "^4.24.5",
+    "pdf-parse": "^1.1.1",
     "react": "19.2.4",
     "react-dom": "19.2.4"
   },
